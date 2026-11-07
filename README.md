@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**Aaseka/Aaseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+   [Aashish Sekar]
+   ───────────
+   math student / waterloo
+   creating and innovating.
+```
+ 
+```
+   ╭─ now ─────────────────────╮
+   │ learning    [backend dev] │
+   │ looking for summer 2027   │
+   │ internships               │
+   ╰───────────────────────────╯
+```
+ 
+mostly python, ai applications, and a lot of terminal.
+into machine learning and security, mainly the parts where the two collide.
+ 
+reach me: https://aaseka.github.io/
